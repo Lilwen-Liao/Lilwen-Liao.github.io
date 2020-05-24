@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: true      #是否开启Gitalk评论
   clientID: f02f8a8f94d3d3917c56                            #生成的clientID
   clientSecret: c32ae0b48ba69001ff2173373de5d741c0afd630    #生成的clientSecret
   repo: Lilwen-Liao.github.io    #仓库名称
